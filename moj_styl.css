@@ -1,0 +1,16 @@
+/*body {
+        background-color: #dec4de;
+    }*/
+
+    #sidebar{
+      background-color: #d3d3d3;
+    }
+
+    #submit,#null_value,#total_rows,#stats{
+      background-color: #606060 ;
+      color: white;
+    }
+
+   /* body, label, input, button, select { 
+      font-family: 'Arial';
+    }*/
